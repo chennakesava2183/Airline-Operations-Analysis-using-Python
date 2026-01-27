@@ -71,8 +71,12 @@ Key preprocessing steps include:
 - Median Arrival Delay by Airline <img width="961" height="144" alt="Delay by Airlines" src="https://github.com/user-attachments/assets/5c457a43-c1a7-437e-9f44-3ae063887a21" />
 <img width="1463" height="910" alt="Delay by Airlines Chart" src="https://github.com/user-attachments/assets/5d69c48c-031b-405b-8d6c-96a732f175ab" />
 
-- Median Departure Delay by Hour of Day
-- Distance vs Delay Scatter Analysis
+- Median Departure Delay by Hour of Day <img width="975" height="609" alt="Delay by Hour" src="https://github.com/user-attachments/assets/38804db5-2faf-4dd6-93d6-0905c3b80ecb" />
+<img width="1466" height="545" alt="Delay by Hour Chart" src="https://github.com/user-attachments/assets/15e845a7-4afb-44cb-ba64-995ccf24e0e1" />
+
+- Distance vs Scheduled Time Scatter Analysis <img width="1291" height="758" alt="Distance and Schedule Time Scatter" src="https://github.com/user-attachments/assets/4b88eae2-58c2-46df-b0eb-d94e9db6f6e4" />
+
+
 
 ### 2️⃣ Cancellation Analysis
 - Cancellation Rate by Airline
