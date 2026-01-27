@@ -59,6 +59,8 @@ Key preprocessing steps include:
 - Handling: NaN / None / NaT values 
 - Empty and whitespace strings <img width="594" height="825" alt="Data Cleaning" src="https://github.com/user-attachments/assets/7b608800-c74c-42bb-8e92-3d7eea953468" />
 - Selective row removal (`dropna(subset=...)`) <img width="817" height="170" alt="Data Cleaning 2" src="https://github.com/user-attachments/assets/7adcc0ae-cd10-4ab6-9252-1666407c519b" />
+<img width="925" height="153" alt="Data Combined" src="https://github.com/user-attachments/assets/9ea9d4d3-bda7-4aa9-adb7-ae33ee3a9448" />
+
 
 - Standardizing month order using categorical data
 - Creating derived metrics (on-time %, cancellation rate)
@@ -66,7 +68,9 @@ Key preprocessing steps include:
 ## 📈 Key Analyses Performed
 
 ### 1️⃣ Delay Analysis
-- Median Arrival Delay by Airline
+- Median Arrival Delay by Airline <img width="961" height="144" alt="Delay by Airlines" src="https://github.com/user-attachments/assets/5c457a43-c1a7-437e-9f44-3ae063887a21" />
+<img width="1463" height="910" alt="Delay by Airlines Chart" src="https://github.com/user-attachments/assets/5d69c48c-031b-405b-8d6c-96a732f175ab" />
+
 - Median Departure Delay by Hour of Day
 - Distance vs Delay Scatter Analysis
 
