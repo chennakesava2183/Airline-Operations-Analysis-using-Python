@@ -49,11 +49,17 @@ Dataset on which I worked (https://mavenanalytics.io/data-playground/airline-fli
 ## 🔄 Data Cleaning & Preparation
 Key preprocessing steps include:
 
-- Extracting Month Names from Month Number Data
-- Extracting hour of day from scheduled times
-- Handling: NaN / None / NaT values
-- Empty and whitespace strings !(https://github.com/chennakesava2183/Airline-Operations-Analysis-using-Python/blob/main/Data%20Cleaning.png)
-- Selective row removal (`dropna(subset=...)`)
+- Data Preparation <img width="1389" height="405" alt="Data Preparation" src="https://github.com/user-attachments/assets/5151c3d8-8ca8-453e-bd5d-4cdca3ab09bf" />
+
+
+- Extracting Month Names from Month Number Data <img width="910" height="102" alt="Extracting Month" src="https://github.com/user-attachments/assets/83ffa9d7-e8a0-4f04-813c-d83b20e13561" />
+
+- Extracting hour of day from scheduled times <img width="837" height="207" alt="Extracting Hour" src="https://github.com/user-attachments/assets/50564c38-52cf-4205-9ded-cb291b3ce7ab" />
+
+- Handling: NaN / None / NaT values 
+- Empty and whitespace strings <img width="594" height="825" alt="Data Cleaning" src="https://github.com/user-attachments/assets/7b608800-c74c-42bb-8e92-3d7eea953468" />
+- Selective row removal (`dropna(subset=...)`) <img width="817" height="170" alt="Data Cleaning 2" src="https://github.com/user-attachments/assets/7adcc0ae-cd10-4ab6-9252-1666407c519b" />
+
 - Standardizing month order using categorical data
 - Creating derived metrics (on-time %, cancellation rate)
 
