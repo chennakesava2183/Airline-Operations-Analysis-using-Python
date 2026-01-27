@@ -25,7 +25,7 @@ The dataset contains commercial flight records with the following key attributes
 
 | Attribute | Description |
 |-----------|-------------|
-| Flight Date | Year, Month, Day |
+| Flight Date | Year, Month, Day, Hour |
 | Airline Codes | IATA, Airline |
 | Origin & Destination Airports | Origin Airport, Destination Airport |
 | Scheduled and Actual Times | Scheduled Time, Departure Delay, Departure Time, Taxi Out, Wheels Off etc|
@@ -42,16 +42,12 @@ The dataset is pre-cleaned for analysis by handling missing values, invalid time
 - **pandas** – data manipulation
 - **numpy** – numerical operations
 - **matplotlib** – static visualizations
-- **seaborn (optional)** – enhanced plots
 
-### BI & Visualization
-- **Power BI** (for interactive dashboards)
-- CSV exports from Python for reporting
 
 ## 🔄 Data Cleaning & Preparation
 Key preprocessing steps include:
 
-- Converting Year–Month–Day into a single datetime column
+- Extracting Month Names from Month Number Data
 - Extracting hour of day from scheduled times
 - Handling: NaN / None / NaT values
 - Empty and whitespace strings
@@ -64,19 +60,16 @@ Key preprocessing steps include:
 ### 1️⃣ Delay Analysis
 - Median Arrival Delay by Airline
 - Median Departure Delay by Hour of Day
-- Monthly Delay Trends
 - Distance vs Delay Scatter Analysis
 
 ### 2️⃣ Cancellation Analysis
 - Cancellation Rate by Airline
 - Cancellation Reasons Distribution
 - Cancellations by Hour of Day
-- Impact of Cancellations on Delay Metrics
 
 ### 3️⃣ Airline Performance
 - On-time performance percentage
 - Worst and best performing airlines
-- Delay consistency across time slots
 
 ### 4️⃣ Airport & Route Insights
 - Busiest airports by flight volume
