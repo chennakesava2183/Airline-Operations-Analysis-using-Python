@@ -52,7 +52,7 @@ Key preprocessing steps include:
 - Extracting Month Names from Month Number Data
 - Extracting hour of day from scheduled times
 - Handling: NaN / None / NaT values
-- Empty and whitespace strings
+- Empty and whitespace strings !(https://github.com/chennakesava2183/Airline-Operations-Analysis-using-Python/blob/main/Data%20Cleaning.png)
 - Selective row removal (`dropna(subset=...)`)
 - Standardizing month order using categorical data
 - Creating derived metrics (on-time %, cancellation rate)
