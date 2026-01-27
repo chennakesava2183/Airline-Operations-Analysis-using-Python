@@ -26,12 +26,12 @@ The dataset contains commercial flight records with the following key attributes
 | Attribute | Description |
 |-----------|-------------|
 | Flight Date | Year, Month, Day |
-| Airline Codes | IATA |
-| Origin & Destination Airports | - |
-| Scheduled and Actual Times | - |
-| Arrival & Departure Delays | - |
-| Cancellation Status and Reasons | - |
-| Distance Travelled | - |
+| Airline Codes | IATA, Airline |
+| Origin & Destination Airports | Origin Airport, Destination Airport |
+| Scheduled and Actual Times | Scheduled Time, Departure Delay, Departure Time, Taxi Out, Wheels Off etc|
+| Arrival & Departure Delays | Scheduled Arrival, Elapsed Time, Departure Time, Arrival Delay, Taxi In, Wheels In etc|
+| Cancellation Status and Reasons | Cancelled, Cancelled Reason |
+| Distance Travelled | Distance, Airtime |
 
 The dataset is pre-cleaned for analysis by handling missing values, invalid time formats, and inconsistent categorical data.
 
