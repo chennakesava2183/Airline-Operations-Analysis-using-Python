@@ -49,18 +49,27 @@ Dataset on which I worked (https://mavenanalytics.io/data-playground/airline-fli
 ## 🔄 Data Cleaning & Preparation
 Key preprocessing steps include:
 
-- Data Preparation <img width="1389" height="405" alt="Data Preparation" src="https://github.com/user-attachments/assets/5151c3d8-8ca8-453e-bd5d-4cdca3ab09bf" />
+- Data Preparation
 
+<img width="1389" height="405" alt="Data Preparation" src="https://github.com/user-attachments/assets/5151c3d8-8ca8-453e-bd5d-4cdca3ab09bf" />
 
-- Extracting Month Names from Month Number Data <img width="910" height="102" alt="Extracting Month" src="https://github.com/user-attachments/assets/83ffa9d7-e8a0-4f04-813c-d83b20e13561" />
+- Extracting Month Names from Month Number Data
 
-- Extracting hour of day from scheduled times <img width="837" height="207" alt="Extracting Hour" src="https://github.com/user-attachments/assets/50564c38-52cf-4205-9ded-cb291b3ce7ab" />
+<img width="910" height="102" alt="Extracting Month" src="https://github.com/user-attachments/assets/83ffa9d7-e8a0-4f04-813c-d83b20e13561" />
 
-- Handling: NaN / None / NaT values 
-- Empty and whitespace strings <img width="594" height="825" alt="Data Cleaning" src="https://github.com/user-attachments/assets/7b608800-c74c-42bb-8e92-3d7eea953468" />
-- Selective row removal (`dropna(subset=...)`) <img width="817" height="170" alt="Data Cleaning 2" src="https://github.com/user-attachments/assets/7adcc0ae-cd10-4ab6-9252-1666407c519b" />
+- Extracting hour of day from scheduled times
+
+<img width="837" height="207" alt="Extracting Hour" src="https://github.com/user-attachments/assets/50564c38-52cf-4205-9ded-cb291b3ce7ab" />
+
+- Handling: NaN / None / NaT values / Empty / whitespace strings
+
+<img width="594" height="825" alt="Data Cleaning" src="https://github.com/user-attachments/assets/7b608800-c74c-42bb-8e92-3d7eea953468" />
+
+- Selective row removal (`dropna(subset=...)`)
+
+<img width="817" height="170" alt="Data Cleaning 2" src="https://github.com/user-attachments/assets/7adcc0ae-cd10-4ab6-9252-1666407c519b" />
+
 <img width="925" height="153" alt="Data Combined" src="https://github.com/user-attachments/assets/9ea9d4d3-bda7-4aa9-adb7-ae33ee3a9448" />
-
 
 - Standardizing month order using categorical data
 - Creating derived metrics (on-time %, cancellation rate)
@@ -68,18 +77,47 @@ Key preprocessing steps include:
 ## 📈 Key Analyses Performed
 
 ### 1️⃣ Delay Analysis
-- Median Arrival Delay by Airline <img width="961" height="144" alt="Delay by Airlines" src="https://github.com/user-attachments/assets/5c457a43-c1a7-437e-9f44-3ae063887a21" />
+### Median Arrival Delay by Airline
+
+Visualize Data -
+ <img width="961" height="144" alt="Delay by Airlines" src="https://github.com/user-attachments/assets/5c457a43-c1a7-437e-9f44-3ae063887a21" />
+
+
+Results -
+
 <img width="1463" height="910" alt="Delay by Airlines Chart" src="https://github.com/user-attachments/assets/5d69c48c-031b-405b-8d6c-96a732f175ab" />
 
-- Median Departure Delay by Hour of Day <img width="975" height="609" alt="Delay by Hour" src="https://github.com/user-attachments/assets/38804db5-2faf-4dd6-93d6-0905c3b80ecb" />
+
+
+### Median Departure Delay by Hour of Day 
+
+Visualize Data -
+<img width="975" height="609" alt="Delay by Hour" src="https://github.com/user-attachments/assets/38804db5-2faf-4dd6-93d6-0905c3b80ecb" />
+
+
+Results -
+
 <img width="1466" height="545" alt="Delay by Hour Chart" src="https://github.com/user-attachments/assets/15e845a7-4afb-44cb-ba64-995ccf24e0e1" />
 
-- Distance vs Scheduled Time Scatter Analysis <img width="1291" height="758" alt="Distance and Schedule Time Scatter" src="https://github.com/user-attachments/assets/4b88eae2-58c2-46df-b0eb-d94e9db6f6e4" />
+
+
+### Distance vs Scheduled Time Scatter Analysis
+
+ <img width="1291" height="758" alt="Distance and Schedule Time Scatter" src="https://github.com/user-attachments/assets/4b88eae2-58c2-46df-b0eb-d94e9db6f6e4" />
 
 
 
 ### 2️⃣ Cancellation Analysis
-- Cancellation Rate by Airline
+ ### Cancellation Rate by Airline 
+ 
+ Visualize Data -
+ <img width="1345" height="43" alt="Airlines Cancellation" src="https://github.com/user-attachments/assets/2bf6466f-932a-41cc-ab1c-e3ccf195483d" />
+
+
+ Results -
+ 
+<img width="1464" height="583" alt="Airlines Cancellation Chart" src="https://github.com/user-attachments/assets/b6c5f506-a4ad-4ff2-bf40-e6051fbce71e" />
+
 - Cancellation Reasons Distribution
 - Cancellations by Hour of Day
 
