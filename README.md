@@ -43,6 +43,8 @@ The dataset is pre-cleaned for analysis by handling missing values, invalid time
 - **numpy** – numerical operations
 - **matplotlib** – static visualizations
 
+# Dataset File 
+Dataset on which I worked (https://mavenanalytics.io/data-playground/airline-flight-delays)
 
 ## 🔄 Data Cleaning & Preparation
 Key preprocessing steps include:
@@ -85,18 +87,8 @@ Key preprocessing steps include:
 - Area charts (monthly traffic trends)
 
 **All charts are:**
-- Cleaned of clutter (spines removed)
 - Properly labeled
 - Scaled for readability
-
-## 📤 Power BI Integration
-- Aggregated datasets exported from Python
-- Used as source tables in Power BI
-- Enables:
-  - Interactive filtering (Airline, Month, Airport)
-  - Drill-downs
-  - Cross-highlighting
-  - Executive-ready dashboards
 
 
 ## ✅ Key Business Insights (Example)
