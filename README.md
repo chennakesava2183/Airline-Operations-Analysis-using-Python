@@ -198,6 +198,13 @@ Results -
 - High-traffic routes do not always have the highest delays
 - High-traffic routes often have the highest cancellations
 
+## Challenges I Faced
+
+This project was not without its challenges, but it provided good learning opportunities:
+
+   - Data Inconsistencies: Handling missing or inconsistent data entries requires careful consideration and thorough data-cleaning techniques to ensure the integrity of the analysis.
+   - Complex Data Visualization: Designing effective visual representations of complex datasets was challenging but critical for conveying insights clearly and compellingly.
+   - Balancing Breadth and Depth: Deciding how deeply to dive into each analysis while maintaining a broad overview of the data landscape required constant balancing to ensure comprehensive coverage without getting lost in details.
 
 ## 👤 Author
 **Chenna Kesava Kumar Bonu**  
