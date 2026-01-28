@@ -153,27 +153,32 @@ Results -
 <img width="1386" height="547" alt="On Time Airline Chart" src="https://github.com/user-attachments/assets/701002d3-eb6a-44b3-9a0f-8917d3a13f0a" />
 
 
-- Worst and best performing airlines
 
 ### 4️⃣ Airport & Route Insights
-- Busiest airports by flight volume
-- Most congested destination airports
-- Routes with highest air traffic
+
+### Busiest airports by flight volume
+
+<img width="1490" height="590" alt="Busiest Air Routes" src="https://github.com/user-attachments/assets/199ed0f3-cf3b-4fdf-9f51-d4b2066dd2fe" />
+
+
+### Most congested destination airports
+
+<img width="1650" height="590" alt="Median Taxi In by Airports" src="https://github.com/user-attachments/assets/59a5f192-deaa-4957-8685-caf7a92f3ad4" />
+
+
 
 ## 📊 Visualizations Created
 - Line charts (hourly and monthly trends)
 - Bar and horizontal bar charts
-- Histograms (delay distributions)
 - Scatter plots (distance vs delay)
 - Pie charts (cancellation reasons)
-- Area charts (monthly traffic trends)
 
 **All charts are:**
 - Properly labeled
 - Scaled for readability
 
 
-## ✅ Key Business Insights (Example)
+## ✅ Key Business Insights
 - Certain airlines consistently maintain lower median delays
 - Peak delays occur during late evening hours
 - Summer months show higher flight volume and congestion
