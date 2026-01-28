@@ -123,6 +123,17 @@ Results -
 <img width="668" height="690" alt="Cancellation Reasons" src="https://github.com/user-attachments/assets/9ac74535-e8ba-49f2-ad91-7f6a8ce88427" />
 
 
+### Cancellations by Month
+
+Visualize -
+
+<img width="1133" height="583" alt="Cancelled Flights per Month" src="https://github.com/user-attachments/assets/3ac4072a-ec96-4ee9-aae2-88be4e69722a" />
+
+Results -
+
+<img width="1389" height="590" alt="Cancelled Flights per Month Chart" src="https://github.com/user-attachments/assets/7891af0d-b379-4daa-8b4c-21309d42ae82" />
+
+
 ### Cancellations by Hour of Day
 
 <img width="1489" height="590" alt="Cancelled by Hour" src="https://github.com/user-attachments/assets/868feb9c-94a4-4929-9de8-229edfe69499" />
@@ -180,21 +191,17 @@ Results -
 
 ## ✅ Key Business Insights
 - Certain airlines consistently maintain lower median delays
-- Peak delays occur during late evening hours
-- Summer months show higher flight volume and congestion
+- Peak delays occur during evening to late evening hours
+- Less flights are Cancelled from Midninght to early Morning hours
+- Most Flights are Cancelled in February and in September very less flights are Cancelled.
 - Weather-related cancellations dominate over technical issues
 - High-traffic routes do not always have the highest delays
+- High-traffic routes often have the highest cancellations
 
-## 🚀 Future Enhancements
-- Predictive delay modeling using ML
-- Weather data integration
-- Route-level optimization analysis
-- Real-time dashboarding
-- Automated data quality checks
 
 ## 👤 Author
 **Chenna Kesava Kumar Bonu**  
-*Data Analyst | Python | Power BI | SQL*
+*Data Analyst | Python | Power BI | SQL | Excel*
 
 ## 📜 License
 This project is for educational and portfolio purposes.
