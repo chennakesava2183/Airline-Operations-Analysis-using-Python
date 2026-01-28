@@ -118,11 +118,41 @@ Results -
  
 <img width="1464" height="583" alt="Airlines Cancellation Chart" src="https://github.com/user-attachments/assets/b6c5f506-a4ad-4ff2-bf40-e6051fbce71e" />
 
-- Cancellation Reasons Distribution
-- Cancellations by Hour of Day
+### Cancellation Reasons Distribution
+
+<img width="668" height="690" alt="Cancellation Reasons" src="https://github.com/user-attachments/assets/9ac74535-e8ba-49f2-ad91-7f6a8ce88427" />
+
+
+### Cancellations by Hour of Day
+
+<img width="1489" height="590" alt="Cancelled by Hour" src="https://github.com/user-attachments/assets/868feb9c-94a4-4929-9de8-229edfe69499" />
+
+### Cancellations by Route
+
+Visualize Data - 
+
+<img width="1458" height="114" alt="Cancelled Route 1" src="https://github.com/user-attachments/assets/fa670924-d02d-4238-b21c-d9af2fdbcbbf" />
+
+Results - 
+
+<img width="1489" height="590" alt="Cancelled Routes" src="https://github.com/user-attachments/assets/18a1fa66-80da-441b-90e9-177fca30e8f3" />
+
+
 
 ### 3️⃣ Airline Performance
-- On-time performance percentage
+
+
+### On-time performance percentage
+
+Visualize Data -
+
+<img width="649" height="667" alt="On Time Airline" src="https://github.com/user-attachments/assets/caed7afb-beba-4ce5-ad11-22ce1c3fc697" />
+
+Results -
+
+<img width="1386" height="547" alt="On Time Airline Chart" src="https://github.com/user-attachments/assets/701002d3-eb6a-44b3-9a0f-8917d3a13f0a" />
+
+
 - Worst and best performing airlines
 
 ### 4️⃣ Airport & Route Insights
