@@ -1,7 +1,7 @@
 # ✈️ Airline Operations Analysis using Python
 
 ## 📌 Project Overview
-This project performs an end-to-end exploratory and analytical study of airline operations, focusing on flight delays, cancellations, airline performance, airport congestion, and traffic patterns. 
+This project performs an end-to-end exploratory and analytical study **(5.82M)** rows of airline operations, focusing on flight delays, cancellations, airline performance, airport congestion, and traffic patterns. 
 
 Using Python and data analysis libraries, the project extracts actionable insights that help understand:
 
