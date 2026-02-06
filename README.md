@@ -46,7 +46,7 @@ The dataset is pre-cleaned for analysis by handling missing values, invalid time
 # Dataset File 
 https://mavenanalytics.io/data-playground/airline-flight-delays
 
-or else you can download from the dataset folder
+or else you can download from the data/original folder
 
 ## 🔄 Data Cleaning & Preparation
 Key preprocessing steps include:
