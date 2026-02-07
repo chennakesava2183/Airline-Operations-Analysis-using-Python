@@ -98,19 +98,10 @@ Results -
 
 ### Median Departure Delay by Hour of Day 
 
-Visualize Data -
-<img width="975" height="609" alt="Delay by Hour" src="https://github.com/user-attachments/assets/38804db5-2faf-4dd6-93d6-0905c3b80ecb" />
-
-
-Results -
-
-<img width="1466" height="545" alt="Delay by Hour Chart" src="https://github.com/user-attachments/assets/15e845a7-4afb-44cb-ba64-995ccf24e0e1" />
 
 
 
 ### Distance vs Scheduled Time Scatter Analysis
-
- <img width="1291" height="758" alt="Distance and Schedule Time Scatter" src="https://github.com/user-attachments/assets/4b88eae2-58c2-46df-b0eb-d94e9db6f6e4" />
 
 
 
@@ -132,13 +123,7 @@ Results -
 
 ### Cancellations by Month
 
-Visualize -
 
-<img width="1133" height="583" alt="Cancelled Flights per Month" src="https://github.com/user-attachments/assets/3ac4072a-ec96-4ee9-aae2-88be4e69722a" />
-
-Results -
-
-<img width="1389" height="590" alt="Cancelled Flights per Month Chart" src="https://github.com/user-attachments/assets/7891af0d-b379-4daa-8b4c-21309d42ae82" />
 
 
 ### Cancellations by Hour of Day
@@ -147,14 +132,6 @@ Results -
 
 ### Cancellations by Route
 
-Visualize Data - 
-
-<img width="1458" height="114" alt="Cancelled Route 1" src="https://github.com/user-attachments/assets/fa670924-d02d-4238-b21c-d9af2fdbcbbf" />
-
-Results - 
-
-<img width="1489" height="590" alt="Cancelled Routes" src="https://github.com/user-attachments/assets/18a1fa66-80da-441b-90e9-177fca30e8f3" />
-
 
 
 ### 3️⃣ Airline Performance
@@ -162,13 +139,9 @@ Results -
 
 ### On-time performance percentage
 
-Visualize Data -
 
 <img width="649" height="667" alt="On Time Airline" src="https://github.com/user-attachments/assets/caed7afb-beba-4ce5-ad11-22ce1c3fc697" />
 
-Results -
-
-<img width="1386" height="547" alt="On Time Airline Chart" src="https://github.com/user-attachments/assets/701002d3-eb6a-44b3-9a0f-8917d3a13f0a" />
 
 
 
@@ -180,8 +153,6 @@ Results -
 
 
 ### Most congested destination airports
-
-<img width="1650" height="590" alt="Median Taxi In by Airports" src="https://github.com/user-attachments/assets/59a5f192-deaa-4957-8685-caf7a92f3ad4" />
 
 
 
