@@ -75,6 +75,7 @@ Key preprocessing steps include:
 <img width="837" height="207" alt="Extracting Hour" src="https://github.com/user-attachments/assets/50564c38-52cf-4205-9ded-cb291b3ce7ab" />
 
 - Handling: NaN / None / NaT values / Empty / whitespace strings
+- Tthe NULL/None values in some columns were related to Cancelled Flights. Overall these values were less than 2% of all the rows. So, I didn't remove them as these were not changing the key metrics by bigger margins
 
 
 - Standardizing month order using categorical data
