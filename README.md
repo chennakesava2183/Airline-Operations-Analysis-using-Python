@@ -124,10 +124,8 @@ Results -
 
 
 
-
 ### Cancellations by Hour of Day
 
-<img width="1489" height="590" alt="Cancelled by Hour" src="https://github.com/user-attachments/assets/868feb9c-94a4-4929-9de8-229edfe69499" />
 
 ### Cancellations by Route
 
