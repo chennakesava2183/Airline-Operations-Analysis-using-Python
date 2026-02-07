@@ -1,1 +1,7 @@
+Python -
+pandas
+numpy
+matplotlib
+Jupyter Notebook
+
 
