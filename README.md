@@ -77,9 +77,6 @@ Key preprocessing steps include:
 
 <img width="594" height="825" alt="Data Cleaning" src="https://github.com/user-attachments/assets/7b608800-c74c-42bb-8e92-3d7eea953468" />
 
-- Selective row removal (`dropna(subset=...)`)
-
-<img width="817" height="170" alt="Data Cleaning 2" src="https://github.com/user-attachments/assets/7adcc0ae-cd10-4ab6-9252-1666407c519b" />
 
 <img width="925" height="153" alt="Data Combined" src="https://github.com/user-attachments/assets/9ea9d4d3-bda7-4aa9-adb7-ae33ee3a9448" />
 
