@@ -43,7 +43,7 @@ The dataset contains commercial flight records with the following key attributes
 | Cancellation Status and Reasons | Cancelled, Cancelled Reason |
 | Distance Travelled | Distance, Airtime |
 
-The dataset is pre-cleaned for analysis by handling missing values, invalid time formats, and inconsistent categorical data.
+The dataset is pre-cleaned for analysis by handling missing values, invalid time formats, and inconsistent categorical data. 
 
 ## 🛠️ Tools & Technologies Used
 
