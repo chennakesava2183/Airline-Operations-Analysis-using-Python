@@ -189,6 +189,9 @@ Results -
 
 
 
+### You can find the [Metrics & Calculations](https://github.com/chennakesava2183/Airline-Operations-Analysis-using-Python/blob/a5bc3ce96af52a4427e3c60736d6873dc72d17c9/notebook/Metric%20Calculations.ipynb "Metrics & Calculations") & [Visualizations](https://github.com/chennakesava2183/Airline-Operations-Analysis-using-Python/blob/a5bc3ce96af52a4427e3c60736d6873dc72d17c9/notebook/Visualizations.ipynb " Visualizations") & [Complete Scripts](https://github.com/chennakesava2183/Airline-Operations-Analysis-using-Python/blob/a5bc3ce96af52a4427e3c60736d6873dc72d17c9/notebook/Project_Airlines_Python_Scripts_All.ipynb " Full Python Script") here
+
+
 ## 📊 Visualizations Created
 - Line charts (hourly and monthly trends)
 - Bar and horizontal bar charts
