@@ -185,7 +185,7 @@ Results -
 
 
 
-### You can find the [Metrics & Calculations](https://github.com/chennakesava2183/Airline-Operations-Analysis-using-Python/blob/a5bc3ce96af52a4427e3c60736d6873dc72d17c9/notebook/Metric%20Calculations.ipynb "Metrics & Calculations") & [Visualizations](https://github.com/chennakesava2183/Airline-Operations-Analysis-using-Python/blob/a5bc3ce96af52a4427e3c60736d6873dc72d17c9/notebook/Visualizations.ipynb " Visualizations") & [Complete Scripts](https://github.com/chennakesava2183/Airline-Operations-Analysis-using-Python/blob/a5bc3ce96af52a4427e3c60736d6873dc72d17c9/notebook/Project_Airlines_Python_Scripts_All.ipynb " Full Python Script") here
+### You can find the [Metrics & Calculations](https://github.com/chennakesava2183/Airline-Operations-Analysis-using-Python/blob/a96951cfa505f9834a8c8d15a8348ec5561e4bb1/Metric%20Calculations.ipynb "Metrics & Calculations") & [Visualizations](https://github.com/chennakesava2183/Airline-Operations-Analysis-using-Python/blob/7a7a78edd828aacc4f640a20ae77424fd57f98ac/Visualizations.ipynb " Visualizations") & [Complete Scripts](https://github.com/chennakesava2183/Airline-Operations-Analysis-using-Python/blob/52b3580b0b5e04bd7245887a5dd1dd520d5593ea/Project_Airlines_Python_Scripts_All.ipynb " Full Python Script") here
 
 
 ## 📊 Visualizations Created
