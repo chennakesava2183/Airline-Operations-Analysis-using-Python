@@ -1,5 +1,6 @@
 # ✈️ Airline Operations Analysis using Python
 
+
 ## 📌 Project Overview
 This project performs an end-to-end exploratory and analytical study **(5.82M)** rows of airline operations, focusing on flight delays, cancellations, airline performance, airport congestion, and traffic patterns. 
 
@@ -54,9 +55,10 @@ The dataset is pre-cleaned for analysis by handling missing values, invalid time
 - **matplotlib** – static visualizations
 
 # Dataset File 
-https://mavenanalytics.io/data-playground/airline-flight-delays
+- **Source:** https://mavenanalytics.io/data-playground/airline-flight-delays
+- **Size:** 5.82M rows
+- **File Size:** ~500MB
 
-or else you can download from the data/original folder
 
 ## 🔄 Data Cleaning & Preparation
 Key preprocessing steps include:
