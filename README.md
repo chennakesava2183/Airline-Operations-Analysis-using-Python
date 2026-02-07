@@ -118,7 +118,6 @@ Results -
 
 ### Cancellation Reasons Distribution
 
-<img width="668" height="690" alt="Cancellation Reasons" src="https://github.com/user-attachments/assets/9ac74535-e8ba-49f2-ad91-7f6a8ce88427" />
 
 
 ### Cancellations by Month
@@ -138,9 +137,6 @@ Results -
 
 
 ### On-time performance percentage
-
-
-<img width="649" height="667" alt="On Time Airline" src="https://github.com/user-attachments/assets/caed7afb-beba-4ce5-ad11-22ce1c3fc697" />
 
 
 
