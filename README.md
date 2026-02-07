@@ -12,6 +12,16 @@ Using Python and data analysis libraries, the project extracts actionable insigh
 
 The insights generated in Python can be exported and visualized interactively in Power BI.
 
+## ❓ The Questions
+
+Below are the questions I want to answer in my Project -
+
+1. Which Airlines are Cancelled mostly and what are the Cancellation reasons?
+2. Which routes are most busy?
+3. What are the Arrival & Departure Delays by Airlines & Airports?
+4. What are the Arrival & Departure Delays by hour of the day?
+
+
 ## 🎯 Objectives
 - Analyze arrival and departure delays
 - Identify on-time vs delayed airline performance
