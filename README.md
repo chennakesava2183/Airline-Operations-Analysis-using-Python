@@ -83,6 +83,8 @@ Key preprocessing steps include:
 - Standardizing month order using categorical data
 - Creating derived metrics (on-time %, cancellation rate)
 
+You can find the complete [Data Cleaning & Preparation] details in the following path - (notebook/Data%20Loading%20%26%20Cleaning.ipynb)
+
 ## 📈 Key Analyses Performed
 
 ### 1️⃣ Delay Analysis
