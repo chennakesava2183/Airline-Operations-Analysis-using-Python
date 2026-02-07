@@ -63,7 +63,6 @@ Key preprocessing steps include:
 
 - Data Preparation
 
-<img width="1389" height="405" alt="Data Preparation" src="https://github.com/user-attachments/assets/5151c3d8-8ca8-453e-bd5d-4cdca3ab09bf" />
 
 - Extracting Month Names from Month Number Data
 
@@ -75,16 +74,12 @@ Key preprocessing steps include:
 
 - Handling: NaN / None / NaT values / Empty / whitespace strings
 
-<img width="594" height="825" alt="Data Cleaning" src="https://github.com/user-attachments/assets/7b608800-c74c-42bb-8e92-3d7eea953468" />
-
-
-<img width="925" height="153" alt="Data Combined" src="https://github.com/user-attachments/assets/9ea9d4d3-bda7-4aa9-adb7-ae33ee3a9448" />
 
 - Standardizing month order using categorical data
 - Creating derived metrics (on-time %, cancellation rate)
 - 
 
-### You can find the complete [Data Cleaning & Preparation](https://github.com/chennakesava2183/Airline-Operations-Analysis-using-Python/blob/a8612818afaae2f6c0688dada3916655fb46731f/notebook/Data%20Loading%20%26%20Cleaning.ipynb "Data Cleaning & Preparation") in this path.
+### You can find the complete [Data Cleaning & Preparation](https://github.com/chennakesava2183/Airline-Operations-Analysis-using-Python/blob/a96951cfa505f9834a8c8d15a8348ec5561e4bb1/Data%20Loading%20%26%20Cleaning.ipynb "Data Cleaning & Preparation") in this path.
 
 ## 📈 Key Analyses Performed
 
