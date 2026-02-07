@@ -83,7 +83,7 @@ Key preprocessing steps include:
 - Standardizing month order using categorical data
 - Creating derived metrics (on-time %, cancellation rate)
 
-You can find the complete [Data Cleaning & Preparation](notebook/Data Loading & Cleaning.ipynb)
+You can find the complete [Data Cleaning & Preparation](https://github.com/chennakesava2183/Airline-Operations-Analysis-using-Python/blob/a8612818afaae2f6c0688dada3916655fb46731f/notebook/Data%20Loading%20%26%20Cleaning.ipynb "Data Cleaning & Preparation") in this path.
 
 ## 📈 Key Analyses Performed
 
