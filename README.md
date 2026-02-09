@@ -157,24 +157,24 @@ Most congested destination airports
 
 
 ## ✅ Key Business Insights
-- Delta Airlines & Alaska Airlines consistently maintain lower median delays
-- Best On-Time Performance: Delta Airlines with 70% on-time rate
+- **Delta Airlines & Alaska Airlines** consistently maintain lower **median delays**
+- Best On-Time Performance: **Delta Airlines** with **70%** on-time rate
 - Peak delays occur during evening to late evening hours
 - Less flights are Cancelled from Midninght to early Morning hours
-- Most Flights are Cancelled in February and in September very less flights are Cancelled.
-- Weather-related cancellations(54%) dominate over Technical issues
-- Busiest Route: San Francisco - Los Angeles with nearly 14k Flights
+- Most Flights are Cancelled in **February** and in **September** very less flights are Cancelled.
+- **Weather-related** cancellations(54%) dominate over Technical issues
+- Busiest Route: **San Francisco - Los Angeles** with nearly 14k Flights
 - High-traffic routes often have the highest cancellations
-- Southwest Airlines has 16k Cancellations
+- **Southwest Airlines** has 16k Cancellations
 
  ## 💡 Business Recommendations
 **For Airlines:**
-- Enquire why most Cancellations are happening for the Boston - New York Route
-- Increase buffer time for February operations
+- Enquire why most Cancellations are happening for the **Boston - New York** Route
+- Increase buffer time for **February** operations
 
 **For Passengers:**
 - Book morning flights to minimize delay risk
-- Avoid Spirit Airlines if on-time arrival is critical
+- Avoid **Spirit Airlines** if on-time arrival is critical
 - Purchase travel insurance for winter months
 
 ## ❓ Challenges I Faced
