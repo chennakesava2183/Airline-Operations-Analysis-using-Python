@@ -71,13 +71,8 @@ Key preprocessing steps include:
 <img width="910" height="102" alt="Extracting Month" src="https://github.com/user-attachments/assets/83ffa9d7-e8a0-4f04-813c-d83b20e13561" />
 
 - Extracting hour of day from scheduled times
-
-<img width="837" height="207" alt="Extracting Hour" src="https://github.com/user-attachments/assets/50564c38-52cf-4205-9ded-cb291b3ce7ab" />
-
 - Handling: NaN / None / NaT values / Empty / whitespace strings
 - The NULL/None values in some columns were related to Cancelled Flights. Overall these values were less than 2% of all the rows. So, I didn't remove them as these were not changing the key metrics by bigger margins
-
-
 - Standardizing month order using categorical data
 - Creating derived metrics (on-time %, cancellation rate)
 
@@ -111,13 +106,7 @@ Results -
 ### 2️⃣ Cancellation Analysis
  ### Cancellation Rate by Airline 
  
- Visualize Data -
- <img width="1345" height="43" alt="Airlines Cancellation" src="https://github.com/user-attachments/assets/2bf6466f-932a-41cc-ab1c-e3ccf195483d" />
 
-
- Results -
- 
-<img width="1464" height="583" alt="Airlines Cancellation Chart" src="https://github.com/user-attachments/assets/b6c5f506-a4ad-4ff2-bf40-e6051fbce71e" />
 
 ### Cancellation Reasons Distribution
 
