@@ -82,7 +82,7 @@ Key preprocessing steps include:
 ## 📈 Key Analyses Performed
 
 ### 1️⃣ Delay Analysis
-### Median Arrival Delay by Airline
+Median Arrival Delay by Airline
 
 Visualize Data -
  <img width="961" height="144" alt="Delay by Airlines" src="https://github.com/user-attachments/assets/5c457a43-c1a7-437e-9f44-3ae063887a21" />
@@ -94,51 +94,51 @@ Results -
 
 
 
-### Median Departure Delay by Hour of Day 
+ Median Departure Delay by Hour of Day 
 
 
 
 
-### Distance vs Scheduled Time Scatter Analysis
+ Distance vs Scheduled Time Scatter Analysis
 
 
 
 ### 2️⃣ Cancellation Analysis
- ### Cancellation Rate by Airline 
+ Cancellation Rate by Airline 
  
 
 
-### Cancellation Reasons Distribution
+ Cancellation Reasons Distribution
 
 
 
-### Cancellations by Month
+ Cancellations by Month
 
 
 
-### Cancellations by Hour of Day
+ Cancellations by Hour of Day
 
 
-### Cancellations by Route
+ Cancellations by Route
 
 
 
 ### 3️⃣ Airline Performance
 
 
-### On-time performance percentage
+ On-time performance percentage
 
 
 
 
 ### 4️⃣ Airport & Route Insights
 
-### Busiest airports by flight volume
+ Busiest airports by flight volume
 
 <img width="1490" height="590" alt="Busiest Air Routes" src="https://github.com/user-attachments/assets/199ed0f3-cf3b-4fdf-9f51-d4b2066dd2fe" />
 
 
-### Most congested destination airports
+Most congested destination airports
 
 
 
